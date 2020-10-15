@@ -2,6 +2,13 @@
 
 **aritmética** é um simples pacote de operações aritméticas em Python.
 
+## Começando o uso
+Você vai precisar instalar o pacote **aritmética**, para isso basta executar:
+````
+pip install aritmetica
+
+```
+
 ## Funções
 
 * `soma (valorx,valory)` - Recebe dois valores e retorna valor da soma
