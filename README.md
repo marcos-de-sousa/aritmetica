@@ -4,7 +4,7 @@
 
 ## Começando o uso
 Você vai precisar instalar o pacote **aritmética**, para isso basta executar:
-
+`pip install aritmetica`
 
 ## Funções
 
