@@ -1,4 +1,6 @@
-**aritimetica** é um simples pacote de operações aritméticas em Python.
+# aritmética
+
+**aritmética** é um simples pacote de operações aritméticas em Python.
 
 ## Funções
 
