@@ -14,4 +14,4 @@ setup(name='aritmetica',
     keywords='Pacote',
     description='Pacote python para operações aritméticas',
     packages=['aritmetica'],
-    install_requires=['python3.6'],)
+    install_requires=['numpy'],)
