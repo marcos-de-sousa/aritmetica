@@ -2,9 +2,14 @@
 
 **aritmética** é um simples pacote de operações aritméticas em Python.
 
+## Dependências
+Você precisa do Python 3.6 ou posterior para usar **aritmética**
+
 ## Começando o uso
 Você vai precisar instalar o pacote **aritmética**, para isso basta executar:
-`pip install aritmetica`
+```
+pip install aritmetica
+```
 
 ## Funções
 
